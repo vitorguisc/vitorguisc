@@ -1,4 +1,4 @@
-## Salve!!! Sou Vitor Guilherme, Engenheiro Biomédico e DEV em formação!
+## Salve!!! Sou Vitor Guilherme, Engenheiro Biomédico e Pos graduado em Análise e Desenvolvimento de Programas e tambem em Projetos de Aplicativos Móveis Multiplataforma!
 <div align="center">
   <a href="https://github.com/vitorguisc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorguisc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

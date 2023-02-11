@@ -13,6 +13,8 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/00/2d/57/002d5714c44f88a16c1f0bdfa97ca05e.jpg">
+  <img align="right" alt="Vitor-swift" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+          
 </div>
   
   ##

@@ -6,6 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Vitor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Vitor-swift" height="30" width="40" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
  <img align="center" alt="Vitor-AS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Vitor-Kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +14,7 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/00/2d/57/002d5714c44f88a16c1f0bdfa97ca05e.jpg">
-  <img align="right" alt="Vitor-swift" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+  
           
 </div>
   
